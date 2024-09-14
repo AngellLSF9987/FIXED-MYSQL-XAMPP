@@ -1,7 +1,7 @@
 # FIXED-MYSQL-XAMPP
 ## Guía de ayuda para la reparación de la conexión local con el servicio MYSQL de phpMyAdmin - XAMPP.
 
-Es el mensaje que verás si el software MySQL en tu entorno se apaga o deja de funcionar "inesperadamente", porque puedes cerrar manualmente el software de la base de datos MySQL en cualquier momento. Eso también ocurre cuando reinicias tu servidor.
+Es el mensaje que se verá si el software MySQL en tu entorno se apaga o deja de funcionar "inesperadamente", porque puedes cerrar manualmente el software de la base de datos MySQL en cualquier momento. Eso también ocurre cuando reinicias tu servidor.
 
 ### VER   IMAGEN    >>  a  <<
 
