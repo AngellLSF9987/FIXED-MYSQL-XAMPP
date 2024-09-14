@@ -63,7 +63,7 @@ Para ello, se debe parar el servicio de MYSQL, utilizando el mismo proceso de ap
 
 ### VER   IMAGEN    >>  f  <<
 
-![f.Screenshot-ERROR-RUN_MYSQL.jpg](images/f.Screenshot-ERROR-RUN_MYSQL.jpg)
+![aa.Screenshot-ERROR-RUN_MYSQL.jpg](images/aa.Screenshot-ERROR-RUN_MYSQL.jpg)
 
 El archivo my.ini contiene los ajustes de configuración de MySQL. Después de hacer clic en él, XAMPP abrirá el archivo utilizando tu editor de texto predeterminado. Una vez dentro, busca la línea que dice Port, que especifica el número de puerto que usa MySQL.
 
@@ -71,6 +71,6 @@ Aquí, puedes cambiar ese número de puerto a otra opción que sepas que otros p
 
 ### VER   IMAGEN    >>  g  <<
 
-![g.Screenshot-ERROR-RUN_MYSQL.jpg](images/g.Screenshot-ERROR-RUN_MYSQL.jpg)
+![ab.Screenshot-ERROR-RUN_MYSQL.jpg](images/ab.Screenshot-ERROR-RUN_MYSQL.jpg)
 
 Entonces puedes usar el panel de control de XAMPP para reiniciar MySQL. Con suerte, tu base de datos está ahora funcionando como debería. Si por alguna razón, XAMPP no puede conectarse a tu base de datos usando el nuevo puerto que has establecido, te lo hará saber a través del registro del panel de control. En ese caso, puedes intentar usar un puerto diferente.
