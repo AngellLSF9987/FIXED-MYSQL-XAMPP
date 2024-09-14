@@ -3,7 +3,7 @@
 
 Es el mensaje que verás si el software MySQL en tu entorno se apaga o deja de funcionar "inesperadamente", porque puedes cerrar manualmente el software de la base de datos MySQL en cualquier momento. Eso también ocurre cuando reinicias tu servidor.
 
-###                                                                                              VER   IMAGEN    >>  a  <<
+### VER   IMAGEN    >>  a  <<
 
 Arreglar el error de XAMPP «MySQL shutdown unexpectedly» es rápido y fácil. A continuación, dejo una pequeña guía con la que, junto con las capturas hechas durante el proceso de recuperación, puede resolverse el problema, sin tener que perder la información de bases de datos de proyectos ya existentes.
 
